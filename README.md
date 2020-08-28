@@ -2,3 +2,5 @@
  Primeiro repositório no Github \o/
 
  Estou estudando Python e esse são alguns dos exercicios que fiz até agora =D
+
+ Da para realizar alterações remotamente pelo site do github, uhulll 
