@@ -1,6 +1,5 @@
-# Vrauuu no Git Hub
- Primeiro repositório no Github \o/
+# David Vrauuu no Git Hub :call_me_hand: da quebrada pro mundo :earth_americas:
 
- Estou estudando Python e esse são alguns dos exercicios que fiz até agora =D
-
- Da para realizar alterações remotamente pelo site do github, uhulll 
+Segue alguns dos meus projetos:
+* Exercicios Python [aqui!](https://github.com/David-Matos-Sousa/Vrauuu-no-Git-Hub)
+* Web Scraping com COVID-19 [] Em construção 
