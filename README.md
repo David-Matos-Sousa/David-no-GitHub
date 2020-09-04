@@ -2,4 +2,4 @@
 
 Segue alguns dos meus projetos:
 * Exercicios [Python](https://github.com/David-Matos-Sousa/Vrauuu-no-Git-Hub)
-* Em construção | Web Scraping com COVID-19
+* Em construção | [Web Scraping](https://github.com/David-Matos-Sousa/Web-Scraping) 
